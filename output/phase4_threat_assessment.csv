@@ -1,0 +1,11 @@
+Scientific_Name,Local_Name,Primary_Activities,Evidence_Quality,Therapeutic_Potential,Study_Count,Research_Gap,Individuals,IVI,Conservation_Status,Population_Score,Pharma_Score,Ecological_Score,Priority_Score,Priority_Category,Priority_Rank,Population_Vulnerability,Habitat_Threat,Harvest_Risk,Overall_Threat_Score,Threat_Level
+Artocarpus elasticus,Teureup,"Antioxidant, Anticancer, Cytotoxic",4,4,6,3,2,7.923968067173179,Critically Endangered,0.9,0.8,0.07923968067173179,0.6598099201679329,HIGH,1,5,4,5,4.65,EXTREME
+Magnolia champaca,Campaka,"Antioxidant, Anti-inflammatory, Sedative",3,4,7,2,4,9.912592128222524,Critically Endangered,0.9,0.7,0.09912592128222524,0.6297814803205563,HIGH,3,5,4,5,4.65,EXTREME
+Podocarpus blumei,Ki Bima,"Antioxidant, Free radical scavenging",2,3,3,4,3,12.826788755276926,Critically Endangered,0.9,0.5,0.12826788755276927,0.5670669718881923,MEDIUM,6,5,3,3,3.8,HIGH
+Dysoxylum parasiticum,Pisitan Monyet,"Immunomodulatory, Antitumor, Anti-inflammatory",5,5,8,2,12,22.84946446099512,Vulnerable,0.5,1,0.2284946446099512,0.6071236611524878,HIGH,4,3,4,4,3.6,HIGH
+Sterculia coccinea,Hantap Helang,"Antioxidant, Antidiabetic, Cardioprotective",3,4,5,3,8,17.324905532921218,Endangered,0.7,0.7,0.17324905532921217,0.5683122638323029,MEDIUM,5,4,3,3,3.4,MEDIUM
+Rhodamnia cinerea,Ki Besi,"Antidiarrheal, Analgesic, Antimicrobial",2,3,2,4,5,16.22871773442302,Endangered,0.7,0.5,0.1622871773442302,0.4955717943360575,MEDIUM,8,4,3,3,3.4,MEDIUM
+Endiandra rubescens,Ki Terong,"Antioxidant, Neuroprotective",2,3,3,4,8,16.194398610671776,Endangered,0.7,0.5,0.16194398610671776,0.4954859965266794,MEDIUM,9,4,3,3,3.4,MEDIUM
+Actinodaphne sp.,Huru Kembang,"Antioxidant, Anti-inflammatory, Antimicrobial",2,3,3,4,7,15.46173664346372,Endangered,0.7,0.5,0.1546173664346372,0.4936543416086593,MEDIUM,10,4,3,3,3.4,MEDIUM
+Gordonia excelsa,Ki Sapi,"Antioxidant, Hepatoprotective, Anti-inflammatory",3,4,6,3,35,64.71624491826104,Least Concern,0.3,0.7,0.6471624491826105,0.5267906122956526,MEDIUM,7,2,3,2,2.3499999999999996,LOW
+Dysoxylum densiflorum,Ki Haji,"Antibacterial, Antifungal, Cytotoxic",5,5,12,2,65,116.56118314859148,Least Concern,0.1,1,1,0.64,HIGH,2,1,4,2,2.3,LOW
